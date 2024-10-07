@@ -1,0 +1,14 @@
+# Ignore virtual environment directories
+market_pulse/
+.env/
+
+# Python-related ignores
+*.pyc
+__pycache__/
+
+# IDE-specific ignores
+.vscode/
+.idea/
+
+# MacOS-specific files
+.DS_Store

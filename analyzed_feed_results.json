@@ -1,0 +1,86 @@
+[
+    {
+        "timestamp": "2024-10-07T16:25:43",
+        "overall_sentiment_score": 0.08455269734064738,
+        "overall_sentiment_label": "Neutral",
+        "sentiment_counts": {
+            "Bearish": 14,
+            "Somewhat-Bearish": 0,
+            "Neutral": 0,
+            "Somewhat-Bullish": 0,
+            "Bullish": 16
+        }
+    },
+    {
+        "timestamp": "2024-10-06T16:25:43",
+        "overall_sentiment_score": -0.40408468025702016,
+        "overall_sentiment_label": "Bearish",
+        "sentiment_counts": {
+            "Bearish": 19,
+            "Somewhat-Bearish": 0,
+            "Neutral": 0,
+            "Somewhat-Bullish": 0,
+            "Bullish": 8
+        }
+    },
+    {
+        "timestamp": "2024-10-05T16:25:43",
+        "overall_sentiment_score": -0.2367950611644321,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "sentiment_counts": {
+            "Bearish": 17,
+            "Somewhat-Bearish": 0,
+            "Neutral": 0,
+            "Somewhat-Bullish": 0,
+            "Bullish": 10
+        }
+    },
+    {
+        "timestamp": "2024-10-04T16:25:43",
+        "overall_sentiment_score": -0.42678730487823485,
+        "overall_sentiment_label": "Bearish",
+        "sentiment_counts": {
+            "Bearish": 18,
+            "Somewhat-Bearish": 0,
+            "Neutral": 0,
+            "Somewhat-Bullish": 0,
+            "Bullish": 7
+        }
+    },
+    {
+        "timestamp": "2024-10-03T16:25:43",
+        "overall_sentiment_score": -0.6994076597279516,
+        "overall_sentiment_label": "Bearish",
+        "sentiment_counts": {
+            "Bearish": 25,
+            "Somewhat-Bearish": 0,
+            "Neutral": 0,
+            "Somewhat-Bullish": 0,
+            "Bullish": 4
+        }
+    },
+    {
+        "timestamp": "2024-10-02T16:25:43",
+        "overall_sentiment_score": -0.4210872495615924,
+        "overall_sentiment_label": "Bearish",
+        "sentiment_counts": {
+            "Bearish": 19,
+            "Somewhat-Bearish": 0,
+            "Neutral": 0,
+            "Somewhat-Bullish": 0,
+            "Bullish": 8
+        }
+    },
+    {
+        "timestamp": "2024-10-01T16:25:43",
+        "overall_sentiment_score": -0.25499776005744934,
+        "overall_sentiment_label": "Somewhat-Bearish",
+        "sentiment_counts": {
+            "Bearish": 17,
+            "Somewhat-Bearish": 0,
+            "Neutral": 0,
+            "Somewhat-Bullish": 0,
+            "Bullish": 11
+        }
+    }
+]
