@@ -12,3 +12,8 @@ __pycache__/
 
 # MacOS-specific files
 .DS_Store
+
+# Ignore large unused files
+*.csv
+*.json
+*.npz
