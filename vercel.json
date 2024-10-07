@@ -2,24 +2,15 @@
     "version": 2,
     "builds": [
       {
-        "src": "app/main.py",
+        "src": "asgi.py",
         "use": "@vercel/python"
       }
     ],
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "app/main.py"
+        "dest": "asgi.py"
       }
-    ],
-    "env": {
-      "PYTHON_VERSION": "3.11"
-    },
-    "python": {
-      "version": "3.11"
-    },
-    "installCommand": "pip install -r requirements.txt",
-    "buildCommand": "",
-    "outputDirectory": ""
+    ]
   }
   
