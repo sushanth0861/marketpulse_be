@@ -7,6 +7,7 @@ from fastapi import APIRouter, BackgroundTasks
 from dotenv import load_dotenv
 from transformers import BartTokenizer, BartForConditionalGeneration
 import torch
+from pymongo import MongoClient
 
 from ..utils.text_extractor import extract_text_from_url
 from ..utils.sentiment_analyzer import aggregate_sentiments, analyze_sentiment, get_sentiment_label_by_score
@@ -17,12 +18,19 @@ load_dotenv()
 # Initialize logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
+# MongoDB configuration
+MONGO_URI = os.getenv("MONGO_URI")
+client = MongoClient(MONGO_URI)
+db = client["market_pulse"]
+news_collection = db["news_data"]
+analyzed_news_collection = db["analyzed_news_data"]
+summary_collection = db["summary_data"]
 
 # Get Alpha Vantage API key from environment variable
 ALPHA_VANTAGE_API_KEY = os.getenv("ALPHA_VANTAGE_API_KEY")
 
-if not ALPHA_VANTAGE_API_KEY:
-    raise EnvironmentError("Missing ALPHA_VANTAGE_API_KEY in environment variables")
+if not ALPHA_VANTAGE_API_KEY or not MONGO_URI:
+    raise EnvironmentError("Missing ALPHA_VANTAGE_API_KEY or MONGO_URI in environment variables")
 
 # Check if GPU is available, else fallback to CPU
 device = 'cuda' if torch.cuda.is_available() else 'cpu'
@@ -31,11 +39,11 @@ device = 'cuda' if torch.cuda.is_available() else 'cpu'
 bart_tokenizer = BartTokenizer.from_pretrained("facebook/bart-large-cnn")
 bart_model = BartForConditionalGeneration.from_pretrained("facebook/bart-large-cnn").to(device)
 
-router = APIRouter()  # Define the APIRouter to be included in main.py
+router = APIRouter()
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 AV_JSON_DIR_PATH = os.path.join(BASE_DIR, '..', 'av_news_files')
-NEWS_JSON_DIR_PATH = os.path.join(BASE_DIR, '..', 'news_analysis_files')  # Directory where the results will be saved
-ANALYZED_JSON_DIR_PATH = os.path.join(BASE_DIR, '..', 'analyzed_files')  # Directory for analyzed files
+NEWS_JSON_DIR_PATH = os.path.join(BASE_DIR, '..', 'news_analysis_files')
+ANALYZED_JSON_DIR_PATH = os.path.join(BASE_DIR, '..', 'analyzed_files')
 SUMMARY_JSON_FILE = os.path.join(BASE_DIR, '..', 'analyzed_feed_results.json')
 
 # Ensure directories exist
@@ -44,29 +52,27 @@ for path in [NEWS_JSON_DIR_PATH, ANALYZED_JSON_DIR_PATH, AV_JSON_DIR_PATH]:
         os.makedirs(path)
 
 def fetch_news_for_day(date: datetime, day_idx):
-    """
-    Fetch news from AlphaVantage for a single day.
-    """
-    time_from = date.strftime("%Y%m%dT0000")  # Start of the day
-    time_to = date.strftime("%Y%m%dT2359")    # End of the day
+    time_from = date.strftime("%Y%m%dT0000")
+    time_to = date.strftime("%Y%m%dT2359")
 
     url = f"https://www.alphavantage.co/query?function=NEWS_SENTIMENT&time_from={time_from}&time_to={time_to}&limit=1000&apikey={ALPHA_VANTAGE_API_KEY}"
 
     logger.info(f"Fetching news for {date.strftime('%Y-%m-%d')} from Alpha Vantage")
 
     response = requests.get(url)
-
-    av_json_filename = f"av_{day_idx}.json"
-    av_json_file_path = os.path.join(AV_JSON_DIR_PATH, av_json_filename)
-
-    logger.info(f"Saving AV news articles to {av_json_file_path}")
-
-    with open(av_json_file_path, "w") as file:
-        json.dump(response.json(), file, indent=4)
-
     if response.status_code == 200:
-        logger.info(f"Successfully fetched news for {date.strftime('%Y-%m-%d')}")
-        return response.json().get("feed", [])
+        news_data = response.json().get("feed", [])
+        av_json_filename = f"av_{day_idx}.json"
+        av_json_file_path = os.path.join(AV_JSON_DIR_PATH, av_json_filename)
+
+        logger.info(f"Saving AV news articles to {av_json_file_path}")
+
+        with open(av_json_file_path, "w") as file:
+            json.dump(news_data, file, indent=4)
+
+        # Store in MongoDB
+        news_collection.insert_many(news_data)
+        return news_data
     else:
         logger.error(f"Failed to fetch news for {date.strftime('%Y-%m-%d')}, status code: {response.status_code}")
         return []
@@ -83,8 +89,7 @@ def analyze_articles(articles, day_idx):
 
         # Use BART model to generate summary
         inputs = bart_tokenizer([article_text], return_tensors="pt", truncation=True, max_length=1024)
-        input_ids = inputs['input_ids'].to(device)  # Send tensors to the appropriate device (GPU/CPU)
-
+        input_ids = inputs['input_ids'].to(device)
         summary_ids = bart_model.generate(input_ids, max_length=150, min_length=40, length_penalty=2.0, num_beams=4, early_stopping=True)
         summary = bart_tokenizer.decode(summary_ids[0], skip_special_tokens=True)
 
@@ -110,6 +115,9 @@ def analyze_articles(articles, day_idx):
     with open(analyzed_json_file_path, "w") as file:
         json.dump(results, file, indent=4)
 
+    # Store analyzed results in MongoDB
+    analyzed_news_collection.insert_many(results)
+
     return results
 
 def save_summary(articles_summary):
@@ -119,6 +127,8 @@ def save_summary(articles_summary):
     logger.info(f"Saving sentiment summary to {SUMMARY_JSON_FILE}")
     with open(SUMMARY_JSON_FILE, "w") as file:
         json.dump(articles_summary, file, indent=4)
+    # Store summary in MongoDB
+    summary_collection.insert_many(articles_summary)
 
 # ------------------- FastAPI Endpoints ----------------------
 
@@ -188,34 +198,17 @@ async def fetch_and_analyze():
 
 @router.get("/fetch_summary/")
 def fetch_summary():
-    """
-    Fetch the summary data for the last 7 days from the summary JSON file.
-    """
-    if os.path.exists(SUMMARY_JSON_FILE):
-        logger.info(f"Fetching summary from {SUMMARY_JSON_FILE}")
-        with open(SUMMARY_JSON_FILE, "r") as file:
-            summary_data = json.load(file)
-        return {"results": summary_data}
+    summaries = list(summary_collection.find().sort("timestamp", -1).limit(7))
+    if summaries:
+        return {"results": summaries}
     else:
-        logger.error("No summary data found.")
         return {"error": "No summary data found."}
 
 @router.get("/fetch_today_analysis/")
 def fetch_today_analysis():
-    """
-    Fetch today's analyzed report based on the circular file system (analyzed_0.json to analyzed_6.json).
-    """
-    today = datetime.now(timezone.utc)
-    # day_idx = today.timetuple().tm_yday % 7  # Determine today's index based on modulo 7
-
-    # Use the day index to locate the corresponding file
-    analyzed_file = os.path.join(ANALYZED_JSON_DIR_PATH, f"analyzed_0.json")
-
-    if os.path.exists(analyzed_file):
-        logger.info(f"Fetching today's analysis from {analyzed_file}")
-        with open(analyzed_file, "r") as file:
-            data = json.load(file)
-        return {"results": data}
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    today_data = list(analyzed_news_collection.find({"date": today}))
+    if today_data:
+        return {"results": today_data}
     else:
-        logger.error(f"No analysis available for today: analyzed_0.json")
-        return {"error": f"No analysis available for today: analyzed_0.json"}
+        return {"error": "No analysis available for today."}

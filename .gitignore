@@ -1,7 +1,11 @@
 # Ignore virtual environment directories
 market_pulse/
 venv/
+venv_gpu/
 .env/
+
+news_analysis_files/
+analyzed_files/
 
 # Python-related ignores
 *.pyc
