@@ -1,5 +1,6 @@
 # Ignore virtual environment directories
 market_pulse/
+venv/
 .env/
 
 # Python-related ignores

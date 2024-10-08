@@ -7,9 +7,6 @@ from fastapi import APIRouter, BackgroundTasks
 from dotenv import load_dotenv
 from transformers import BartTokenizer, BartForConditionalGeneration
 import torch
-from apscheduler.schedulers.background import BackgroundScheduler
-from apscheduler.triggers.cron import CronTrigger
-import asyncio
 
 from ..utils.text_extractor import extract_text_from_url
 from ..utils.sentiment_analyzer import aggregate_sentiments, analyze_sentiment, get_sentiment_label_by_score
