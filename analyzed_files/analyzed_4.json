@@ -1,123 +1,11 @@
 [
     {
-        "title": "Friday's big stock stories: What's likely to move the market in the next trading session",
-        "summary": "CNBC's Stocks @ Night is delivered after hours, giving you a first look at tomorrow and last look at today. Sign up for free to receive it directly in your inbox. Here's what CNBC's producers were watching as stocks slid on Thursday.",
+        "title": "OPENSEA ANNOUNCEMENT: If You Purchased NFTs on OpenSea, You Are Encouraged to Contact The Rosen Law Firm About Your Rights",
+        "summary": "OpenSea may have issued materially misleading information to the investing public. The Rosen Law Firm is preparing a class action seeking recovery of investor losses. To join the prospective class action, go to https://rosenlegal.com/submit-form/?case_id=29398.",
         "sentiment_label": "Bearish",
-        "sentiment_score": -0.9901360869407654,
-        "url": "https://www.cnbc.com/2024/10/03/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "date": "20241003T235754"
-    },
-    {
-        "title": "ROSEN, A GLOBALLY RESPECTED LAW FIRM, Encourages GitLab Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - GTLB - GitLab  ( NASDAQ:GTLB ) ",
-        "summary": "Rosen Law Firm reminds purchasers of securities of GitLab Inc. GTLB of the important November 4, 2024 lead plaintiff deadline. If you purchased GitLab securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs. A class action lawsuit has already been filed.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.988935649394989,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41177321/rosen-a-globally-respected-law-firm-encourages-gitlab-inc-investors-to-secure-counsel-before-impor",
-        "date": "20241003T235600"
-    },
-    {
-        "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Verve Therapeutics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - VERV - Verve Therapeutics  ( NASDAQ:VERV ) ",
-        "summary": "Rosen Law Firm reminds investors of the October 28, 2024 lead plaintiff deadline in the securities class action first filed by the firm. If you purchased Verve Therapeutics securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs. A class action lawsuit has already been filed.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9894576668739319,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41177306/rosen-leading-investor-counsel-encourages-verve-therapeutics-inc-investors-to-secure-counsel-befor",
-        "date": "20241003T235400"
-    },
-    {
-        "title": "Cannabis Giant Green Thumb To Report Q3 Results, Here's What Investors Should Watch For - Green Thumb Industries  ( OTC:GTBIF ) ",
-        "summary": "Cannabis consumer packaged goods company Green Thumb Industries Inc. will release its third quarter 2024 financial results after the market closes on Nov.7, 2024. A conference call and audio webcast will be held on the same day at 5:00 pm ET to discuss the results and answer questions.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.5468340516090393,
-        "url": "https://www.benzinga.com/markets/cannabis/24/10/41177304/cannabis-giant-green-thumb-to-report-q3-results-heres-what-investors-should-watch-for",
-        "date": "20241003T235350"
-    },
-    {
-        "title": "Why Magnite Stock Was Sinking at Double-Digit Rates This Week",
-        "summary": "Walt Disney no longer uses adtech company Magnite. Magnite's stock price was down by nearly 11% week to date as of early Thursday evening. The company should offer some explanation or clarity to get ahead of the situation.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9993199110031128,
-        "url": "https://www.fool.com/investing/2024/10/03/why-magnite-stock-was-sinking-at-double-digit-rate/",
-        "date": "20241003T234600"
-    },
-    {
-        "title": "NY Cannabis Market Soars To $654M But Equity Licensees Are Left Behind, Report Finds - Curaleaf Holdings  ( OTC:CURLF ) ",
-        "summary": "New York\u2019s legal cannabis market reached a record $97.4 million in sales in August. The state's regulators are actively cracking down on illegal cannabis operations. Despite these successes, the report acknowledges that significant work remains to be done.",
-        "sentiment_label": "Bullish",
-        "sentiment_score": 0.9032618403434753,
-        "url": "https://www.benzinga.com/markets/cannabis/24/10/41177261/ny-cannabis-market-soars-to-654m-but-equity-licensees-are-left-behind-report-finds",
-        "date": "20241003T234538"
-    },
-    {
-        "title": "Visa Inc. ANNOUNCEMENT: If You Have Suffered Losses in Visa Inc.  ( NYSE: V ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Visa  ( NYSE:V ) ",
-        "summary": "The Rosen Law Firm is preparing a class action seeking recovery of investor losses. If you purchased Visa securities, you may be entitled to compensation without payment of any out of pocket fees or costs. To join the prospective class action, go to https://rosenlegal.com/submit-form/?case_id=29131.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9928134083747864,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41177253/visa-inc-announcement-if-you-have-suffered-losses-in-visa-inc-nyse-v-you-are-encouraged-to-contact",
-        "date": "20241003T234200"
-    },
-    {
-        "title": "NuLegacy Gold terminates Private Placement",
-        "summary": "NuLegacy Gold Corporation is focused on exploring exploring high-grade gold deposits in Nevada. The Company issued 45,200,000 units (\u201cUnits\u201d) at a price of $0.01 per Unit for gross proceeds of $452,000. 40,000,000 Units were purchased by Crescat Portfolio Management LLC (\u2018Crescat\u2019) together with various directors and officers of the Company for a total of $400,000 (the \u201cOffering\u201d). The net proceeds of the Offering have been used/allocated to pay the annual BLM and county filing fees.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9815986752510071,
-        "url": "https://www.globenewswire.com/news-release/2024/10/03/2958086/0/en/NuLegacy-Gold-terminates-Private-Placement.html",
-        "date": "20241003T234000"
-    },
-    {
-        "title": "Chronic Pain Patients Support Cannabis Access Expansion While Physicians Favor Restrictions, Study Finds",
-        "summary": "Those suffering from chronic pain are more in favor of policies that expand cannabis access compared to the physicians who provide their care. The majority of chronic pain patients said they would like insurance cover cannabis treatment for their condition.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9551325440406799,
-        "url": "https://www.benzinga.com/markets/cannabis/24/10/41177137/chronic-pain-patients-support-cannabis-access-expansion-while-physicians-favor-restrictions-stud",
-        "date": "20241003T233306"
-    },
-    {
-        "title": "Fidelity International: fund sales surged on interest rate cuts, China rally",
-        "summary": "Hong Kong-based Charlotte Chan says sales of retail funds in Hong Kong doubled from a year earlier. \u201cWe have seen many of them have shifted from cash to investing in long-term bonds,\u201d she said.",
-        "sentiment_label": "Bullish",
-        "sentiment_score": 0.9740792512893677,
-        "url": "https://www.scmp.com/business/article/3280898/fidelity-international-says-fund-sales-surged-interest-rate-cuts-china-market-rally",
-        "date": "20241003T233009"
-    },
-    {
-        "title": "Port Strike Ends, Workers In A Tentative Deal Return To Work Friday [Updated]",
-        "summary": "The recent port strike on the East and Gulf coasts ended following a tentative agreement between dockworkers and port operators. The agreement includes a substantial wage increase and improved working conditions. The quick settlement also defused a political risk for the current administration.",
-        "sentiment_label": "Bullish",
-        "sentiment_score": 0.9894323348999023,
-        "url": "https://www.benzinga.com/news/24/10/41177060/port-strike-ends-workers-return-to-work-friday",
-        "date": "20241003T232838"
-    },
-    {
-        "title": "Arkansas Court Orders Medical Marijuana Ballot Signature Count",
-        "summary": "Arkansas Supreme Court orders Secretary of State to count 18,000 disputed signatures. Issue 3, a proposed amendment to expand the state\u2019s medical marijuana program, fell 2,664 signatures short of the amount needed to qualify for the November ballot. The court set a deadline of Friday for Thurston to file a report on the verification process.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9991523027420044,
-        "url": "https://www.benzinga.com/markets/cannabis/24/10/41177092/arkansas-supreme-court-orders-state-to-count-all-disputed-medical-marijuana-ballot-signatures-af",
-        "date": "20241003T232546"
-    },
-    {
-        "title": "SIGA Technologies  ( SIGA )  Shares Tumble After Mpox Therapy Fails, Chief Medical Officer Terminated - Hagens Berman - SIGA Technologies  ( NASDAQ:SIGA ) ",
-        "summary": "Biopharmaceutical company SIGA Technologies is under intense scrutiny over its prior disclosures. The inquiry centers on the company's statements about the likelihood of securing FDA approval to broaden the drug's label. SIGA investors who suffered substantial losses to submit your losses now.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9933373928070068,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41177090/siga-technologies-siga-shares-tumble-after-mpox-therapy-fails-chief-medical-officer-terminated-hag",
-        "date": "20241003T232515"
-    },
-    {
-        "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Super Micro Computer, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - SMCI - Super Micro Computer  ( NASDAQ:SMCI ) ",
-        "summary": "Rosen Law Firm reminds purchasers of securities of Super Micro Computer, Inc. SMCI of the October 28, 2024 lead plaintiff deadline in the securities class action first filed by the firm. A class action lawsuit has already been filed. If you wish to serve as lead plaintiff, you must move the Court no later than October28, 2024. The Rosen Law Firm represents investors throughout the globe.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.971635103225708,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41177071/rosen-leading-investor-counsel-encourages-super-micro-computer-inc-investors-to-secure-counsel-bef",
-        "date": "20241003T232000"
-    },
-    {
-        "title": "DSV, 1137 - DSV A/S COMPLETES EQUITY OFFERING OF 26.4 MILLION NEW SHARES RAISING GROSS PROCEEDS OF DKK 37.3 BILLION  ( APPROX. EUR 5 BILLION ) ",
-        "summary": "DSV A/S announces completion of equity offering and directed issue of new shares raising gross proceeds of DKK 37.3 billion (approx. EUR 5 billion) The offer price is DKK 1,410.50 per share. The New Shares represent approximately 12.4% of DSV\u2019s registered share capital before the capital increase.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9038238525390625,
-        "url": "https://www.globenewswire.com/news-release/2024/10/03/2958082/0/en/DSV-1137-DSV-A-S-COMPLETES-EQUITY-OFFERING-OF-26-4-MILLION-NEW-SHARES-RAISING-GROSS-PROCEEDS-OF-DKK-37-3-BILLION-APPROX-EUR-5-BILLION.html",
-        "date": "20241003T231200"
+        "sentiment_score": -0.9975817203521729,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41197021/opensea-announcement-if-you-purchased-nfts-on-opensea-you-are-encouraged-to-contact-the-rosen-law-",
+        "date": "20241005T233200"
     },
     {
         "title": "Before you continue",
@@ -125,110 +13,766 @@
         "sentiment_label": "Bearish",
         "sentiment_score": -0.9946302175521851,
         "url": "https://consent.google.com/m",
-        "date": "20241003T230153"
+        "date": "20241005T225405"
     },
     {
-        "title": "XPEL DEADLINE: ROSEN, A LEADING LAW FIRM, Encourages XPEL, Inc. Investors to Secure Counsel Before Important October 7 Deadline in Securities Class Action - XPEL - XPEL  ( NASDAQ:XPEL ) ",
-        "summary": "Rosen Law Firm reminds purchasers of securities of XPEL, Inc. XPEL between November 8, 2023 and May 2, 2024, both dates inclusive (the \"Class Period\"), of the important October 7, 2024 lead plaintiff deadline. If you purchased XPEL securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9424340128898621,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41176824/xpel-deadline-rosen-a-leading-law-firm-encourages-xpel-inc-investors-to-secure-counsel-before-impo",
-        "date": "20241003T230000"
-    },
-    {
-        "title": "Missouri judge blocks Biden student loan forgiveness that was cleared to proceed",
-        "summary": "The Biden administration's sweeping student loan forgiveness plan was temporarily blocked again Thursday by a Missouri judge. The latest order capped 24 hours during which federal student loan holders were subjected to judicial whiplash. A lawsuit challenging Biden's aid package, brought by seven GOP-led states, bounced from Georgia to Missouri courts.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9952496290206909,
-        "url": "https://www.cnbc.com/2024/10/03/biden-student-loan-forgiveness-blocked-again-missouri.html",
-        "date": "20241003T224856"
-    },
-    {
-        "title": "79North Announces Shares for Debt Transaction",
-        "summary": "79North Inc. (CSE: JQ) announces that it has entered into a series of debt settlement agreements (the \u201cSettlement Agreements\u201d) for the issuance of 1,572,822 common shares in the capital of the Company. The Shares for Debt Settlement are expected to be issued at a deemed price of $0.10 per Share. Closing of the Shares for debt Settlement is anticipated to take place on or about October 10, 2024.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9915470480918884,
-        "url": "https://www.globenewswire.com/news-release/2024/10/03/2958079/0/en/79North-Announces-Shares-for-Debt-Transaction.html",
-        "date": "20241003T224400"
-    },
-    {
-        "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Sage Therapeutics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - SAGE - Sage Therapeutics  ( NASDAQ:SAGE ) ",
-        "summary": "Rosen Law Firm reminds purchasers of securities of Sage Therapeutics, Inc. of the important October 28, 2024 lead plaintiff deadline. If you purchased Sage securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. A class action lawsuit has already been filed.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9873771071434021,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41176716/rosen-leading-investor-counsel-encourages-sage-therapeutics-inc-investors-to-secure-counsel-before",
-        "date": "20241003T224400"
-    },
-    {
-        "title": "No, a CryptoPunks NFT Didn't Just Sell for $56 Million",
-        "summary": "CryptoPunk 1563 was last purchased for about $69,000 worth of ETH in September. On-chain data shows that the purchase was conducted via crafty use of flash loans. The flash loan is apparently tied to an upcoming meme coin called \"Kamala Harris Punk\"",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.996659517288208,
-        "url": "https://decrypt.co/284608/cryptopunks-nft-didnt-sell-56-million",
-        "date": "20241003T224119"
-    },
-    {
-        "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages ZoomInfo Technologies, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ZI - ZoomInfo Technologies  ( NASDAQ:ZI ) ",
-        "summary": "Rosen Law Firm reminds purchasers of Class A common stock of ZoomInfo Technologies, Inc. ZI between November 10, 2020 and August 5, 2024, of the important November 4, 2024 lead plaintiff deadline. A class action lawsuit has already been filed. If you wish to serve as lead plaintiff, you must move the Court no later than November4, 2024. A lead plaintiff is a representative party acting on behalf of other class members.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9856707453727722,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41176709/rosen-trusted-investor-counsel-encourages-zoominfo-technologies-inc-investors-to-secure-counsel-be",
-        "date": "20241003T224100"
-    },
-    {
-        "title": "Before you continue",
-        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9946302175521851,
-        "url": "https://consent.google.com/m",
-        "date": "20241003T223730"
-    },
-    {
-        "title": "FORD IMPORTANT DEADLINE: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Ford Motor Company Investors to Secure Counsel Before Important October 7 Deadline in Securities Class Action - F - Ford Motor  ( NYSE:F ) ",
-        "summary": "Rosen Law Firm reminds purchasers of securities of Ford Motor Company F between April 27, 2022 and July 24, 2024, of the important October 7, 2024 lead plaintiff deadline. If you purchased Ford securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. A class action lawsuit has already been filed.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9748784899711609,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41176639/ford-important-deadline-rosen-recognized-investor-counsel-encourages-ford-motor-company-investors-",
-        "date": "20241003T223500"
-    },
-    {
-        "title": "Before you continue",
-        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9946302175521851,
-        "url": "https://consent.google.com/m",
-        "date": "20241003T223450"
-    },
-    {
-        "title": "Teamsters Added 50,000 New Members In 3Y Cannabis Related - Cresco Labs  ( OTC:CRLBF ) , Ascend Wellness Holdings  ( OTC:AAWH ) ",
-        "summary": "The International Brotherhood of Teamsters has added 50,000 new members in just two and a half years. Part of this growth stems from the Teamsters' organizing efforts within the booming cannabis sector. Last year the union achieved a significant presence across the entire cannabis supply chain.",
+        "title": "Where Will Cava Stock Be in 5 Years?",
+        "summary": "Cava Group (CAVA 4.75%) shareholders are sitting fat and happy after the last year. The stock in the Mediterranean restaurant chain is up a whopping 300% in the last 12 months. The recent IPO has become an investor favorite with its strong traffic growth and room to expand its restaurant locations around the nation.",
         "sentiment_label": "Bullish",
-        "sentiment_score": 0.998392641544342,
-        "url": "https://www.benzinga.com/markets/cannabis/24/10/41176622/teamsters-added-50-000-new-members-in-less-than-3-years-partly-due-to-cannabis-industry-growth",
-        "date": "20241003T223340"
+        "sentiment_score": 0.9982020854949951,
+        "url": "https://www.fool.com/investing/2024/10/05/where-will-cava-stock-be-in-5-years/",
+        "date": "20241005T223000"
     },
     {
-        "title": "FLUX POWER HOLDINGS, INC. ANNOUNCEMENT: If You Have Suffered Losses in Flux Power Holdings, Inc.  ( NASDAQ: FLUX ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Flux Power Holdings  ( NASDAQ:FLUX ) ",
-        "summary": "Flux Power Holdings, Inc. may have issued materially misleading business information to the investing public. If you purchased Flux Power securities you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. The Rosen Law Firm is preparing a class action seeking recovery of investor losses.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.997891366481781,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41176601/flux-power-holdings-inc-announcement-if-you-have-suffered-losses-in-flux-power-holdings-inc-nasdaq",
-        "date": "20241003T223000"
+        "title": "1 Magnificent S&P 500 Dividend Stock Up 3% to Buy and Hold Forever",
+        "summary": "McDonald's gave investors heartburn in its last few earnings reports, which showed stress on the leading fast-food business. But patient investors should still do well by holding McDonald's (MCD 0.35%) stock over the long term. The chain is now within striking distance of joining the exclusive club of Dividend Kings.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9537243843078613,
+        "url": "https://www.fool.com/investing/2024/10/05/1-magnificent-sp-500-dividend-stock-up-3-to-buy-an/",
+        "date": "20241005T221200"
     },
     {
-        "title": "ROSEN, A LEADING LAW FIRM, Encourages Terran Orbital Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - LLAP - Terran Orbital  ( NYSE:LLAP ) ",
-        "summary": "Rosen Law Firm has filed a class action lawsuit on behalf of purchasers of securities of Terran Orbital Corporation LLAP between August 15, 2023 and August 14, 2024. If you purchased Terran securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. To join the Terran class action, go to https://rosenlegal.com/submit-form/?case_id=29314.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9937785267829895,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41176580/rosen-a-leading-law-firm-encourages-terran-orbital-corporation-investors-to-secure-counsel-before-",
-        "date": "20241003T222800"
+        "title": "The Ultimate Growth Stock to Buy With $1,000 Right Now",
+        "summary": "Amazon (AMZN) is the ultimate growth stock to buy with $1,000 right now. This company benefits from some powerful secular trends, all propelled by the ways in which technology is changing the economy. The company has an unrivaled scale with its logistics operations, and the online marketplace possesses a powerful moat.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9977744221687317,
+        "url": "https://www.fool.com/investing/2024/10/05/ultimate-growth-stock-to-buy-with-1000-right-now/",
+        "date": "20241005T220600"
     },
     {
-        "title": "Why Futu Holdings Stock Was on Fire This Week",
-        "summary": "Futu Holdings (FUTU -0.02%) shares were up by a very impressive 43% week to date. JPMorgan Chase's Katherine Lei nearly doubled said Futu price target. The rally seemed to be fizzling on Thursday because of profit-taking.",
+        "title": "The S&P 500 Just Did This for the First Time in 27 Years. Here's What History Says Happens Next.",
+        "summary": "The widely followed index hasn't had a run like this since 1997. Since its low point, the S&P 500 has gained roughly 59%, compared to average bull market gains of 180%. The benchmark index has delivered double-digit increases on 12 separate occasions since 1990.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9167969822883606,
+        "url": "https://www.fool.com/investing/2024/10/05/the-sp-500-just-did-this-for-the-first-time-in-27/",
+        "date": "20241005T220200"
+    },
+    {
+        "title": "Legendary Apple Co-Founder Steve Jobs Once Said, 'Being The Richest Man In The Cemetery Doesn't Matter To Me:' Maybe That's Why His Impact Transcends Financial Success For iPhone-Maker And Beyond",
+        "summary": "It's been over a decade since legendary Apple Inc. co-founder Steve Jobs left us. On Oct. 5, the anniversary of his passing, it's worth taking a moment to reflect on the journey of this tech visionary. Jobs\u2019 story begins in San Francisco, where he was born in 1955.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9988962411880493,
+        "url": "https://www.benzinga.com/news/24/10/41196932/legendary-apple-co-founder-steve-jobs-once-said-being-the-richest-man-in-the-cemetery-doesnt-matter",
+        "date": "20241005T220034"
+    },
+    {
+        "title": "I Know I'll Get Social Security in Retirement. Here's Why I'm Leaving It Out of My Plans",
+        "summary": "The program's trust funds are expected to be depleted in 2034, according to a recent Congressional Budget Office report. That could lead to benefit cuts if the government cannot find a way to increase Social Security's funding over the long term. The best way to do this is by creating a my Social Security account.",
         "sentiment_label": "Bearish",
-        "sentiment_score": -0.9864344596862793,
-        "url": "https://www.fool.com/investing/2024/10/03/why-futu-holdings-stock-was-on-fire-this-week/",
-        "date": "20241003T222710"
+        "sentiment_score": -0.9990594983100891,
+        "url": "https://www.fool.com/retirement/2024/10/05/i-know-ill-get-social-security-in-retirement-heres/",
+        "date": "20241005T220000"
+    },
+    {
+        "title": "2 High-Yield Dividend Stocks Set to Soar",
+        "summary": "United Parcel Service (UPS) and LTC Properties Inc. (LTC) are two high-yield dividend stocks that also boast businesses that could take off in the near term. U.S. adult population aged 85 or older is expected to continue growing rapidly -- it will hit 11 million by 2035 and pass 17 million by 2050. LTC has a bright future as America's population ages and demand for its senior housing and skilled nursing properties grows.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9977389574050903,
+        "url": "https://www.fool.com/investing/2024/10/05/2-high-yield-dividend-stocks-set-to-soar/",
+        "date": "20241005T220000"
+    },
+    {
+        "title": "CAE INC. ANNOUNCEMENT: If You Have Suffered Losses in CAE Inc.  ( NYSE: CAE ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - CAE  ( NYSE:CAE ) ",
+        "summary": "Rosen Law Firm continues to investigate potential securities claims on behalf of shareholders of CAE Inc. CAE may have issued materially misleading business information to the investing public. If you purchased CAE securities you may be entitled to compensation without payment of any out of pocket fees or costs.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9913861751556396,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41196927/cae-inc-announcement-if-you-have-suffered-losses-in-cae-inc-nyse-cae-you-are-encouraged-to-contact",
+        "date": "20241005T215200"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T213956"
+    },
+    {
+        "title": "Polls Suggest This Candidate Holds Slim Lead In Presidential Race With One Month To Go",
+        "summary": "Kamala Harris is slightly ahead of Donald Trump in the presidential race, as per recent polling data. Recent surveys indicate that Harris is leading Trump by a margin of two to five points. The outcome of the election could hinge on the seven battleground states, where the race is currently too close to call.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9607189893722534,
+        "url": "https://www.benzinga.com/news/24/10/41196906/polls-suggest-this-candidate-holds-slim-lead-in-presidential-race-with-one-month-to-go",
+        "date": "20241005T213016"
+    },
+    {
+        "title": "Mary Trump Says Special Counsel's Filing Counter Ex-President's Efforts To Game Legal System In His Favor",
+        "summary": "U.S. District Court Judge for the District of Columbia Tanya Chutkan made public this week a filing by Special Prosecutor Jack Smith. Mary Trump, the former president\u2019s niece, on Thursday delved into the development in a substack post. She noted that Smith made the case that Donald Trump acted as a private citizen and a private candidate.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9428282380104065,
+        "url": "https://www.benzinga.com/news/24/10/41196889/mary-trump-says-special-counsels-filing-counter-ex-presidents-efforts-to-game-legal-system-in-his-fa",
+        "date": "20241005T211515"
+    },
+    {
+        "title": "Here's How Mark Cuban's Drunken Splurge Of $125,000 Turned Into A Profitable Investment",
+        "summary": "Mark Cuban once made a spontaneous purchase of a lifetime flight pass from American Airlines. The pass, dubbed the AAirpass, was launched in the early 1980s, providing unlimited first-class travel for life. Cuban acquired the pass in the aftermath of selling his first business, MicroSolutions.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.6434943675994873,
+        "url": "https://www.benzinga.com/news/24/10/41196856/heres-how-mark-cubans-drunken-splurge-of-125-000-turned-into-a-profitable-investment",
+        "date": "20241005T204525"
+    },
+    {
+        "title": "3 Top Utility Stocks to Buy in October",
+        "summary": "After a huge rally, investors need to be a bit more selective in the utility sector. NextEra Energy's dividend has grown at a 10% annualized clip over the past one-, three-, five-, and 10-year periods. Black Hills is a fairly boring natural gas and electric utility that serves 1.3 million customers in parts of the U.S.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9992631077766418,
+        "url": "https://www.fool.com/investing/2024/10/05/3-top-utility-stocks-to-buy-in-october/",
+        "date": "20241005T204500"
+    },
+    {
+        "title": "1 Wall Street Analyst Thinks Tesla Stock Is Going to $310. Is It a Buy?",
+        "summary": "The stock is trading down after Tesla reported its production and delivery numbers for the third quarter. Morgan Stanley analyst Adam Jonas is taking the long view on the company's prospects. The company is making a big push into artificial intelligence (AI) to lay the groundwork for a robotaxi service.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9908142685890198,
+        "url": "https://www.fool.com/investing/2024/10/05/wall-street-analyst-tesla-stock-buy/",
+        "date": "20241005T203000"
+    },
+    {
+        "title": "HII's Ingalls Shipbuilding Hosts Student Maritime Welding Competition",
+        "summary": "HII\u2019s (NYSE: HII) Ingalls Shipbuilding division hosted their second annual Project MFG Maritime Welding Competition. The competition served as an opportunity to highlight the vital role of skilled trades in the manufacturing industry. The first, second and third place winners received prizes and all of the participants received contingent employment offers.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9980078339576721,
+        "url": "https://www.globenewswire.com/news-release/2024/10/05/2958576/14858/en/HII-s-Ingalls-Shipbuilding-Hosts-Student-Maritime-Welding-Competition.html",
+        "date": "20241005T201500"
+    },
+    {
+        "title": "Down 45% in 6 Months, Is Dollar General Stock Too Cheap to Pass Up?",
+        "summary": "Dollar General (DG) is down more than 45% in the past six months. Same-store sales rose just 0.5% for the quarter ended Aug. 2, while operating profits nosedived 21% year over year. The retail stock is now trading near a seven-year low.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9996071457862854,
+        "url": "https://www.fool.com/investing/2024/10/05/down-45-in-6-months-is-dollar-general-stock-too-ch/",
+        "date": "20241005T201500"
+    },
+    {
+        "title": "Want the Max $4,873 Social Security Benefit? Here's the Salary You Need.",
+        "summary": "Social Security was never intended to provide all of anyone's retirement income. That doesn't mean you shouldn't get the most you can out of the entitlement program. Earn enough money to make the maximum allowable contributions to the government-administered program.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9819261431694031,
+        "url": "https://www.fool.com/retirement/2024/10/05/want-the-max-4873-social-security-benefit-heres-th/",
+        "date": "20241005T200500"
+    },
+    {
+        "title": "Is Apple a Buy, Sell, or Hold in 2025?",
+        "summary": "Apple's (AAPL) stock has underperformed the market by 2 percentage points since the start of the year. The company has had a lot of success in the past and richly rewarded shareholders. Can Apple's shares regain their market-beating ways? The answer lies in examining the company's long-term prospects.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9937642812728882,
+        "url": "https://www.fool.com/investing/2024/10/05/is-apple-a-buy-sell-or-hold-in-2025/",
+        "date": "20241005T200000"
+    },
+    {
+        "title": "Jeff Bezos Swears By This One-Hour Rule For Success - Now Neuroscience Backs It Up - Amazon.com  ( NASDAQ:AMZN ) ",
+        "summary": "Jeff Bezos, the founder of Amazon, has a distinctive morning routine that avoids screen time for the first hour of the day. Recent neuroscience research indicates that this method could lead to smarter, healthier days. Bezos is convinced that this slow, phone-free start enhances his energy and decision-making abilities.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.8380674719810486,
+        "url": "https://www.benzinga.com/news/24/10/41196792/jeff-bezos-swears-by-this-one-hour-rule-for-success-now-neuroscience-backs-it-up",
+        "date": "20241005T194518"
+    },
+    {
+        "title": "Here's Why Bill Gates Drops To Historic Low On Forbes 400 List",
+        "summary": "Gates has slipped to the ninth position, a significant drop from his sixth place ranking last year. His net worth has also seen a $4 billion decrease from the previous year. This marks the first time since 1991 that Gates has not featured among the top ten wealthiest individuals globally.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.993498682975769,
+        "url": "https://www.benzinga.com/news/24/10/41196778/heres-why-bill-gates-drops-to-historic-low-on-forbes-400-list",
+        "date": "20241005T193015"
+    },
+    {
+        "title": "Biden Anticipates Potential Unrest In Upcoming Election: 'Trump Has Said Very Dangerous Things'",
+        "summary": "President Joe Biden made his first-ever appearance at a regular White House press briefing on Friday. During the briefing, Biden voiced his doubts about the peaceful conclusion of the upcoming election. The President\u2019s concerns stem from the rhetoric of former President Donald Trump.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.924064040184021,
+        "url": "https://www.benzinga.com/news/24/10/41196757/biden-anticipates-potential-unrest-in-upcoming-election-trump-has-said-very-dangerous-things",
+        "date": "20241005T191519"
+    },
+    {
+        "title": "Trump's Dark Rhetoric: Migrants Portrayed As Criminals Amid Election Heat",
+        "summary": "Donald Trump made unfounded claims that migrants crossing the U.S. border were responsible for widespread violence. Trump labeled migrants from Mexico as criminals 13 times and those from Guatemala 10 times from Sept. 1, 2023, to Oct. 2, 2024.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9682667255401611,
+        "url": "https://www.benzinga.com/markets/equities/24/10/41196721/trumps-dark-rhetoric-migrants-portrayed-as-criminals-amid-election-heat",
+        "date": "20241005T184516"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181843"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181836"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181819"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181504"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181359"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181315"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181312"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181303"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181229"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181222"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181212"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181027"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181026"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181022"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181021"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181020"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181016"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181015"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181010"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T181006"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T180952"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T180950"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T180917"
+    },
+    {
+        "title": "Coca-Cola and These 2 Red-Hot Dow Dividend Stocks Are Up 10% to 22% in 3 Months, and They Could Still Be Worth Buying in October",
+        "summary": "Coca-Cola, Home Depot, and McDonald's are crushing the broader indexes over the last three months. Coca-Cola is an established, mature company with a global beverage portfolio. Home Depot's results have been relatively weak in recent years.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9919824004173279,
+        "url": "https://www.fool.com/investing/2024/10/05/coca-cola-and-these-2-red-hot-dow-dividend-stocks/",
+        "date": "20241005T180500"
+    },
+    {
+        "title": "Russia's Latest 'Time Bomb' Sparks Fear, But It's Not What You Think",
+        "summary": "University of Chicago economist Konstantin Sonin has issued a stark warning about the future of Russia\u2019s economy. The ongoing conflict in Ukraine, he says, is setting the stage for a major economic crisis in Russia. Sonin says the Kremlin is funding the war by \u201cborrowing from the future,\u201d with cuts to crucial public spending programs and a rise in military spending.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.8591627478599548,
+        "url": "https://www.benzinga.com/news/24/10/41196548/russias-latest-time-bomb-sparks-fear-but-its-not-what-you-think",
+        "date": "20241005T180024"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T175725"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T175300"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T174903"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T174731"
+    },
+    {
+        "title": "Microsoft Loses Critical Security Logs - Here's How It Could Impact You - Microsoft  ( NASDAQ:MSFT ) ",
+        "summary": "Microsoft Corp. has reportedly lost log data for several of its crucial security products. The products affected include Microsoft Entra, Microsoft Sentinel, Microsoft Defender for Cloud, and Microsoft Purview. A bug in a Microsoft internal monitoring agent caused a malfunction in uploading log data.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9996383190155029,
+        "url": "https://www.benzinga.com/news/24/10/41196529/microsoft-loses-critical-security-logs-heres-how-it-could-impact-you",
+        "date": "20241005T174529"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T174229"
+    },
+    {
+        "title": "Amazon bets on selling cashierless technology to retailers after pulling it from most U.S. stores",
+        "summary": "In April, Amazon announced it was removing cashierless checkout from its U.S. Fresh stores and Whole Foods locations. The company discontinued some Amazon Go stores and hit a pause on its new Fresh store openings in recent months.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946160912513733,
+        "url": "https://www.cnbc.com/2024/10/05/amazon-makes-big-bet-on-selling-cashierless-tech-to-outside-retailers.html",
+        "date": "20241005T173915"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T173827"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T173741"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T173500"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T173121"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T172943"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T171733"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T171525"
+    },
+    {
+        "title": "Tesla Robotaxi Buzz Soars Ahead Of Thursday Event, Rivian Seeks DOE Loan For Georgia Plant, Nikola Thumps Estimates And More: Biggest EV Stories Of The Week - KraneShares Electric Vehicles and Future Mobility Index ETF  ( ARCA:KARS ) ",
+        "summary": "Tesla delivered 462,890 EVs in the third quarter, ahead of the company-compiled consensus estimate of 461,978 units. The quarterly number marked a 6.40% year-over-year increase and a 4.26% sequential rise.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9928537011146545,
+        "url": "https://www.benzinga.com/analyst-ratings/analyst-color/24/10/41196494/tesla-robotaxi-buzz-soars-ahead-of-thursday-event-rivian-seeks-doe-loan-for-georgia",
+        "date": "20241005T171329"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T171044"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T171027"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T171011"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T170944"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T170806"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T170748"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T170357"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T170208"
+    },
+    {
+        "title": "Musk vs. Buffett: Which Investor Do Readers Trust To Turn $1,000 Into $100,000 Faster? - Tesla  ( NASDAQ:TSLA ) ",
+        "summary": "A new Benzinga poll pitted Warren Buffett, Elon Musk, and other renowned investors against each other. The poll found that Musk was the pick for investors to give $1,000 to and turn it into $100,000 the quickest.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.966366708278656,
+        "url": "https://www.benzinga.com/top-stories/24/10/41196469/musk-vs-buffett-which-investor-do-benzinga-readers-trust-to-turn-1-000-into-100-000-faster",
+        "date": "20241005T170034"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T163812"
+    },
+    {
+        "title": "BMBL Investor Alert: Kessler Topaz Meltzer & Check, LLP Urges BMBL Investors with Losses to Contact the Firm - Bumble  ( NASDAQ:BMBL ) ",
+        "summary": "A securities class action lawsuit has been filed in the United States District Court for the Western District of Texas against Bumble Inc. The lead plaintiff deadline is November 25, 2024. Kessler Topaz Meltzer & Check, LLP prosecutes class actions in state and federal courts throughout the country.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9902584552764893,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41196448/bmbl-investor-alert-kessler-topaz-meltzer-check-llp-urges-bmbl-investors-with-losses-to-contact-th",
+        "date": "20241005T163800"
+    },
+    {
+        "title": "Great News for EVGO Stock Investors!",
+        "summary": "Parkev Tatevosian, CFA discusses what the news could mean for EVGO (EVGO -3.75%) stock investors. The Motley Fool is a financial services company dedicated to making the world smarter, happier, and richer.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9698384404182434,
+        "url": "https://www.fool.com/investing/2024/10/05/great-news-for-evgo-stock-investors/",
+        "date": "20241005T163707"
+    },
+    {
+        "title": "My Shocking Palantir Stock Price Estimate",
+        "summary": "Palantir (PLTR 6.58%) is one of the most popular artificial intelligence (AI) stocks in the market. In this video, Parkev Tatevosian, CFA, conducts a discounted cash flow valuation of Palantir stock.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.7019533514976501,
+        "url": "https://www.fool.com/investing/2024/10/05/my-shocking-palantir-stock-price-estimate/",
+        "date": "20241005T163426"
+    },
+    {
+        "title": "You Won't Believe What Nvidia CEO Jensen Huang Just Said!",
+        "summary": "The Nvidia (NVDA 4.05%)CEO said demand for its latest technology is insane. Parkev Tatevosian, CFA discusses what these comments could mean for Nvidia stock investors.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.99085533618927,
+        "url": "https://www.fool.com/investing/2024/10/05/you-wont-believe-what-nvidia-ceo-jensen-huang-just/",
+        "date": "20241005T163119"
+    },
+    {
+        "title": "25-03, SBA Statement on President Biden's Letter to Congress on Disaster Loan Funding",
+        "summary": "SBA Administrator Isabel Casillas Guzman is urging Congress to replenish the SBA\u2019s vital disaster loan program. The SBA steps in immediately to provide financial relief to small business owners, nonprofits, homeowners, and renters with long-term, low-interest loans.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9802854061126709,
+        "url": "https://markets.businessinsider.com/news/stocks/25-03-sba-statement-on-president-biden-s-letter-to-congress-on-disaster-loan-funding-1033822508",
+        "date": "20241005T163040"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T163009"
+    },
+    {
+        "title": "MEI Investor Alert: A Securities Fraud Class Action Lawsuit Has Been Filed Against Methode Electronics, Inc. - Methode Electronics  ( NYSE:MEI ) ",
+        "summary": "A securities class action lawsuit has been filed in the United States District Court for the Northern District of Illinois against Methode Electronics, Inc. Investors who purchased or otherwise acquired Methode common stock between June 23, 2022 and March 6, 2024, inclusive (the \"Class Period\") The lead plaintiff deadline is October 25, 2024.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9957736134529114,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41196433/mei-investor-alert-a-securities-fraud-class-action-lawsuit-has-been-filed-against-methode-electron",
+        "date": "20241005T163000"
+    },
+    {
+        "title": "Should You Buy Nike Stock on the Dip?",
+        "summary": "Nike (NKE -0.07%) told investors that things would get worse before they get better. In this video, Parkev Tatevosian, CFA, answers whether investors should consider buying the stock while it's down.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9978037476539612,
+        "url": "https://www.fool.com/investing/2024/10/05/should-you-buy-nike-stock-on-the-dip/",
+        "date": "20241005T162912"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T162422"
+    },
+    {
+        "title": "How Much Is Amazon Stock Really Worth?",
+        "summary": "Amazon is one of the largest companies in the world, as measured by its total sales. Parkev Tatevosia, CFA, conducts a discounted cash flow valuation of Amazon (AMZN 1.06%) in this video.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9686114192008972,
+        "url": "https://www.fool.com/investing/2024/10/05/how-much-is-amazon-stock-really-worth/",
+        "date": "20241005T162353"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T162128"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T161723"
+    },
+    {
+        "title": "Shaping Holistic Wellness at Evolutionary Body System",
+        "summary": "Yolanda Trevino's journey in transforming trauma into empowerment is documented in her book, \"What's in Emerald City? The Power of the Heart\" Evolutionary Body System is designed to help individuals cultivate their physical, mental, emotional, and spiritual well-being, using a variety of healing tools.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9990645051002502,
+        "url": "https://markets.businessinsider.com/news/stocks/shaping-holistic-wellness-at-evolutionary-body-system-1033822506",
+        "date": "20241005T161300"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T161242"
+    },
+    {
+        "title": "NNE DEADLINE TUESDAY: ROSEN, A LONGSTANDING LAW FIRM, Encourages NANO Nuclear Energy, Inc. Investors with Losses in Excess of $100K to Secure Counsel Before Important October 8 Deadline in...",
+        "summary": "Rosen Law Firm reminds purchasers of securities of NANO Nuclear Energy, Inc. (NASDAQ: NNE) of the important October 8, 2024 lead plaintiff deadline. If you purchased NNE securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9613174796104431,
+        "url": "https://markets.businessinsider.com/news/stocks/nne-deadline-tuesday-rosen-a-longstanding-law-firm-encourages-nano-nuclear-energy-inc.-investors-with-losses-in-excess-of-100k-to-secure-counsel-before-important-october-8-deadline-in-securities-class-action-nne-1033822507",
+        "date": "20241005T161200"
+    },
+    {
+        "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages Visa Inc. Investors to Inquire About Securities Class Action Investigation - V",
+        "summary": "The Rosen Law Firm is preparing a class action seeking recovery of investor losses. If you purchased Visa securities you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. The firm has recovered hundreds of millions of dollars for investors.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9573319554328918,
+        "url": "https://markets.businessinsider.com/news/stocks/rosen-trusted-investor-counsel-encourages-visa-inc.-investors-to-inquire-about-securities-class-action-investigation-v-1033822504",
+        "date": "20241005T160700"
+    },
+    {
+        "title": "Tesla Stock: Buy, Sell, or Hold?",
+        "summary": "Tesla is one of the most valuable companies in the world, but it needs to prove a lot to live up to that. Tesla is currently trading for 9 times sales and 73 times trailing earnings. The company's business today is primarily selling electric vehicles with an adjacent energy storage business.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9904980063438416,
+        "url": "https://www.fool.com/investing/2024/10/05/tesla-stock-buy-sell-or-hold/",
+        "date": "20241005T160200"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T160123"
+    },
+    {
+        "title": "From Tech To Tees: Meta's Zuckerberg May Launching Clothing Line On Instagram",
+        "summary": "Zuckerberg is said to be collaborating with fashion designer Mike Amiri to create his own clothing line. He sported a black t-shirt with the Latin phrase \u201cAut Zuck aut nihil\u201d at the Meta Connect keynote on September 25, which means \u201cZuck or nothing\u2019",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9763857126235962,
+        "url": "https://www.benzinga.com/news/24/10/41196394/from-tech-to-tees-metas-zuckerberg-may-launching-clothing-line-on-instagram",
+        "date": "20241005T160019"
+    },
+    {
+        "title": "ROSEN, GLOBAL INVESTOR COUNSEL, Encourages Starbucks Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - SBUX - Starbucks  ( NASDAQ:SBUX ) ",
+        "summary": "If you purchased Starbucks securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. A class action lawsuit has already been filed. If you wish to serve as lead plaintiff, you must move the Court no later than October 28, 2024.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9983651041984558,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41196391/rosen-global-investor-counsel-encourages-starbucks-corporation-investors-to-secure-counsel-before-",
+        "date": "20241005T160000"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T155645"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T155211"
+    },
+    {
+        "title": "Before you continue",
+        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9946302175521851,
+        "url": "https://consent.google.com/m",
+        "date": "20241005T155032"
     }
 ]

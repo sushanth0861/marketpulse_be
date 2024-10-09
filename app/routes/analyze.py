@@ -82,7 +82,7 @@ def analyze_articles(articles, day_idx):
     Analyze the fetched articles using the BART model and save the output.
     """
     results = []
-    for article in articles[:30]:
+    for article in articles[:100]:
         article_text = extract_text_from_url(article["url"])
         if not article_text:
             continue

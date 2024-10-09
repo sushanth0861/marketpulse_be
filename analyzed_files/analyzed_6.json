@@ -1,11 +1,123 @@
 [
     {
-        "title": "Wednesday's big stock stories: What's likely to move the market in the next trading session",
-        "summary": "CNBC's Stocks @ Night is a daily newsletter delivered after hours, giving you a first look at tomorrow and last look at today. Here's what CNBC TV's producers were watching as October's trading kicked off and what's on the radar.",
+        "title": "Friday's big stock stories: What's likely to move the market in the next trading session",
+        "summary": "CNBC's Stocks @ Night is delivered after hours, giving you a first look at tomorrow and last look at today. Sign up for free to receive it directly in your inbox. Here's what CNBC's producers were watching as stocks slid on Thursday.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9901360869407654,
+        "url": "https://www.cnbc.com/2024/10/03/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+        "date": "20241003T235754"
+    },
+    {
+        "title": "ROSEN, A GLOBALLY RESPECTED LAW FIRM, Encourages GitLab Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - GTLB - GitLab  ( NASDAQ:GTLB ) ",
+        "summary": "Rosen Law Firm reminds purchasers of securities of GitLab Inc. GTLB of the important November 4, 2024 lead plaintiff deadline. If you purchased GitLab securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs. A class action lawsuit has already been filed.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.988935649394989,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41177321/rosen-a-globally-respected-law-firm-encourages-gitlab-inc-investors-to-secure-counsel-before-impor",
+        "date": "20241003T235600"
+    },
+    {
+        "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Verve Therapeutics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - VERV - Verve Therapeutics  ( NASDAQ:VERV ) ",
+        "summary": "Rosen Law Firm reminds investors of the October 28, 2024 lead plaintiff deadline in the securities class action first filed by the firm. If you purchased Verve Therapeutics securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs. A class action lawsuit has already been filed.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9894576668739319,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41177306/rosen-leading-investor-counsel-encourages-verve-therapeutics-inc-investors-to-secure-counsel-befor",
+        "date": "20241003T235400"
+    },
+    {
+        "title": "Cannabis Giant Green Thumb To Report Q3 Results, Here's What Investors Should Watch For - Green Thumb Industries  ( OTC:GTBIF ) ",
+        "summary": "Cannabis consumer packaged goods company Green Thumb Industries Inc. will release its third quarter 2024 financial results after the market closes on Nov.7, 2024. A conference call and audio webcast will be held on the same day at 5:00 pm ET to discuss the results and answer questions.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.5468335151672363,
+        "url": "https://www.benzinga.com/markets/cannabis/24/10/41177304/cannabis-giant-green-thumb-to-report-q3-results-heres-what-investors-should-watch-for",
+        "date": "20241003T235350"
+    },
+    {
+        "title": "Why Magnite Stock Was Sinking at Double-Digit Rates This Week",
+        "summary": "Walt Disney no longer uses adtech company Magnite. Magnite's stock price was down by nearly 11% week to date as of early Thursday evening. The company should offer some explanation or clarity to get ahead of the situation.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9993199110031128,
+        "url": "https://www.fool.com/investing/2024/10/03/why-magnite-stock-was-sinking-at-double-digit-rate/",
+        "date": "20241003T234600"
+    },
+    {
+        "title": "NY Cannabis Market Soars To $654M But Equity Licensees Are Left Behind, Report Finds - Curaleaf Holdings  ( OTC:CURLF ) ",
+        "summary": "New York\u2019s legal cannabis market reached a record $97.4 million in sales in August. The state's regulators are actively cracking down on illegal cannabis operations. Despite these successes, the report acknowledges that significant work remains to be done.",
         "sentiment_label": "Bullish",
-        "sentiment_score": 0.5102400779724121,
-        "url": "https://www.cnbc.com/2024/10/01/wednesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-        "date": "20241001T235538"
+        "sentiment_score": 0.9032617211341858,
+        "url": "https://www.benzinga.com/markets/cannabis/24/10/41177261/ny-cannabis-market-soars-to-654m-but-equity-licensees-are-left-behind-report-finds",
+        "date": "20241003T234538"
+    },
+    {
+        "title": "Visa Inc. ANNOUNCEMENT: If You Have Suffered Losses in Visa Inc.  ( NYSE: V ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Visa  ( NYSE:V ) ",
+        "summary": "The Rosen Law Firm is preparing a class action seeking recovery of investor losses. If you purchased Visa securities, you may be entitled to compensation without payment of any out of pocket fees or costs. To join the prospective class action, go to https://rosenlegal.com/submit-form/?case_id=29131.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9928134083747864,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41177253/visa-inc-announcement-if-you-have-suffered-losses-in-visa-inc-nyse-v-you-are-encouraged-to-contact",
+        "date": "20241003T234200"
+    },
+    {
+        "title": "NuLegacy Gold terminates Private Placement",
+        "summary": "NuLegacy Gold Corporation is focused on exploring exploring high-grade gold deposits in Nevada. The Company issued 45,200,000 units (\u201cUnits\u201d) at a price of $0.01 per Unit for gross proceeds of $452,000. 40,000,000 Units were purchased by Crescat Portfolio Management LLC (\u2018Crescat\u2019) together with various directors and officers of the Company for a total of $400,000 (the \u201cOffering\u201d). The net proceeds of the Offering have been used/allocated to pay the annual BLM and county filing fees.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9815987944602966,
+        "url": "https://www.globenewswire.com/news-release/2024/10/03/2958086/0/en/NuLegacy-Gold-terminates-Private-Placement.html",
+        "date": "20241003T234000"
+    },
+    {
+        "title": "Chronic Pain Patients Support Cannabis Access Expansion While Physicians Favor Restrictions, Study Finds",
+        "summary": "Those suffering from chronic pain are more in favor of policies that expand cannabis access compared to the physicians who provide their care. The majority of chronic pain patients said they would like insurance cover cannabis treatment for their condition.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9551327228546143,
+        "url": "https://www.benzinga.com/markets/cannabis/24/10/41177137/chronic-pain-patients-support-cannabis-access-expansion-while-physicians-favor-restrictions-stud",
+        "date": "20241003T233306"
+    },
+    {
+        "title": "Fidelity International: fund sales surged on interest rate cuts, China rally",
+        "summary": "Hong Kong-based Charlotte Chan says sales of retail funds in Hong Kong doubled from a year earlier. \u201cWe have seen many of them have shifted from cash to investing in long-term bonds,\u201d she said.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9740793704986572,
+        "url": "https://www.scmp.com/business/article/3280898/fidelity-international-says-fund-sales-surged-interest-rate-cuts-china-market-rally",
+        "date": "20241003T233009"
+    },
+    {
+        "title": "Port Strike Ends, Workers In A Tentative Deal Return To Work Friday [Updated]",
+        "summary": "The recent port strike on the East and Gulf coasts ended following a tentative agreement between dockworkers and port operators. The agreement includes a substantial wage increase and improved working conditions. The quick settlement also defused a political risk for the current administration.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.9894323348999023,
+        "url": "https://www.benzinga.com/news/24/10/41177060/port-strike-ends-workers-return-to-work-friday",
+        "date": "20241003T232838"
+    },
+    {
+        "title": "Arkansas Court Orders Medical Marijuana Ballot Signature Count",
+        "summary": "Arkansas Supreme Court orders Secretary of State to count 18,000 disputed signatures. Issue 3, a proposed amendment to expand the state\u2019s medical marijuana program, fell 2,664 signatures short of the amount needed to qualify for the November ballot. The court set a deadline of Friday for Thurston to file a report on the verification process.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9991523027420044,
+        "url": "https://www.benzinga.com/markets/cannabis/24/10/41177092/arkansas-supreme-court-orders-state-to-count-all-disputed-medical-marijuana-ballot-signatures-af",
+        "date": "20241003T232546"
+    },
+    {
+        "title": "SIGA Technologies  ( SIGA )  Shares Tumble After Mpox Therapy Fails, Chief Medical Officer Terminated - Hagens Berman - SIGA Technologies  ( NASDAQ:SIGA ) ",
+        "summary": "Biopharmaceutical company SIGA Technologies is under intense scrutiny over its prior disclosures. The inquiry centers on the company's statements about the likelihood of securing FDA approval to broaden the drug's label. SIGA investors who suffered substantial losses to submit your losses now.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9933373928070068,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41177090/siga-technologies-siga-shares-tumble-after-mpox-therapy-fails-chief-medical-officer-terminated-hag",
+        "date": "20241003T232515"
+    },
+    {
+        "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Super Micro Computer, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - SMCI - Super Micro Computer  ( NASDAQ:SMCI ) ",
+        "summary": "Rosen Law Firm reminds purchasers of securities of Super Micro Computer, Inc. SMCI of the October 28, 2024 lead plaintiff deadline in the securities class action first filed by the firm. A class action lawsuit has already been filed. If you wish to serve as lead plaintiff, you must move the Court no later than October28, 2024. The Rosen Law Firm represents investors throughout the globe.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.971635103225708,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41177071/rosen-leading-investor-counsel-encourages-super-micro-computer-inc-investors-to-secure-counsel-bef",
+        "date": "20241003T232000"
+    },
+    {
+        "title": "DSV, 1137 - DSV A/S COMPLETES EQUITY OFFERING OF 26.4 MILLION NEW SHARES RAISING GROSS PROCEEDS OF DKK 37.3 BILLION  ( APPROX. EUR 5 BILLION ) ",
+        "summary": "DSV A/S announces completion of equity offering and directed issue of new shares raising gross proceeds of DKK 37.3 billion (approx. EUR 5 billion) The offer price is DKK 1,410.50 per share. The New Shares represent approximately 12.4% of DSV\u2019s registered share capital before the capital increase.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9038236737251282,
+        "url": "https://www.globenewswire.com/news-release/2024/10/03/2958082/0/en/DSV-1137-DSV-A-S-COMPLETES-EQUITY-OFFERING-OF-26-4-MILLION-NEW-SHARES-RAISING-GROSS-PROCEEDS-OF-DKK-37-3-BILLION-APPROX-EUR-5-BILLION.html",
+        "date": "20241003T231200"
     },
     {
         "title": "Before you continue",
@@ -13,15 +125,55 @@
         "sentiment_label": "Bearish",
         "sentiment_score": -0.9946302175521851,
         "url": "https://consent.google.com/m",
-        "date": "20241001T235311"
+        "date": "20241003T230153"
     },
     {
-        "title": "Bitcoin tumbles back to the $60,000 level as tensions in the Middle East heighten",
-        "summary": "Cryptocurrencies were under pressure Wednesday, after bitcoin slid back to $60,000 to kick off what is usually one of its strongest months. October looms as a potential rollercoaster, influenced by the delayed ripple effects of last year's halving of the U.S. central bank's interest rate.",
+        "title": "XPEL DEADLINE: ROSEN, A LEADING LAW FIRM, Encourages XPEL, Inc. Investors to Secure Counsel Before Important October 7 Deadline in Securities Class Action - XPEL - XPEL  ( NASDAQ:XPEL ) ",
+        "summary": "Rosen Law Firm reminds purchasers of securities of XPEL, Inc. XPEL between November 8, 2023 and May 2, 2024, both dates inclusive (the \"Class Period\"), of the important October 7, 2024 lead plaintiff deadline. If you purchased XPEL securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement.",
         "sentiment_label": "Bearish",
-        "sentiment_score": -0.9157175421714783,
-        "url": "https://www.cnbc.com/2024/10/01/crypto-market-today.html",
-        "date": "20241001T235047"
+        "sentiment_score": -0.9424341320991516,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176824/xpel-deadline-rosen-a-leading-law-firm-encourages-xpel-inc-investors-to-secure-counsel-before-impo",
+        "date": "20241003T230000"
+    },
+    {
+        "title": "Missouri judge blocks Biden student loan forgiveness that was cleared to proceed",
+        "summary": "The Biden administration's sweeping student loan forgiveness plan was temporarily blocked again Thursday by a Missouri judge. The latest order capped 24 hours during which federal student loan holders were subjected to judicial whiplash. A lawsuit challenging Biden's aid package, brought by seven GOP-led states, bounced from Georgia to Missouri courts.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9952496290206909,
+        "url": "https://www.cnbc.com/2024/10/03/biden-student-loan-forgiveness-blocked-again-missouri.html",
+        "date": "20241003T224856"
+    },
+    {
+        "title": "79North Announces Shares for Debt Transaction",
+        "summary": "79North Inc. (CSE: JQ) announces that it has entered into a series of debt settlement agreements (the \u201cSettlement Agreements\u201d) for the issuance of 1,572,822 common shares in the capital of the Company. The Shares for Debt Settlement are expected to be issued at a deemed price of $0.10 per Share. Closing of the Shares for debt Settlement is anticipated to take place on or about October 10, 2024.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9915470480918884,
+        "url": "https://www.globenewswire.com/news-release/2024/10/03/2958079/0/en/79North-Announces-Shares-for-Debt-Transaction.html",
+        "date": "20241003T224400"
+    },
+    {
+        "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Sage Therapeutics, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - SAGE - Sage Therapeutics  ( NASDAQ:SAGE ) ",
+        "summary": "Rosen Law Firm reminds purchasers of securities of Sage Therapeutics, Inc. of the important October 28, 2024 lead plaintiff deadline. If you purchased Sage securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. A class action lawsuit has already been filed.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9873771071434021,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176716/rosen-leading-investor-counsel-encourages-sage-therapeutics-inc-investors-to-secure-counsel-before",
+        "date": "20241003T224400"
+    },
+    {
+        "title": "No, a CryptoPunks NFT Didn't Just Sell for $56 Million",
+        "summary": "CryptoPunk 1563 was last purchased for about $69,000 worth of ETH in September. On-chain data shows that the purchase was conducted via crafty use of flash loans. The flash loan is apparently tied to an upcoming meme coin called \"Kamala Harris Punk\"",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.996659517288208,
+        "url": "https://decrypt.co/284608/cryptopunks-nft-didnt-sell-56-million",
+        "date": "20241003T224119"
+    },
+    {
+        "title": "ROSEN, TRUSTED INVESTOR COUNSEL, Encourages ZoomInfo Technologies, Inc. Investors to Secure Counsel Before Important Deadline in Securities Class Action - ZI - ZoomInfo Technologies  ( NASDAQ:ZI ) ",
+        "summary": "Rosen Law Firm reminds purchasers of Class A common stock of ZoomInfo Technologies, Inc. ZI between November 10, 2020 and August 5, 2024, of the important November 4, 2024 lead plaintiff deadline. A class action lawsuit has already been filed. If you wish to serve as lead plaintiff, you must move the Court no later than November4, 2024. A lead plaintiff is a representative party acting on behalf of other class members.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9856707453727722,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176709/rosen-trusted-investor-counsel-encourages-zoominfo-technologies-inc-investors-to-secure-counsel-be",
+        "date": "20241003T224100"
     },
     {
         "title": "Before you continue",
@@ -29,7 +181,15 @@
         "sentiment_label": "Bearish",
         "sentiment_score": -0.9946302175521851,
         "url": "https://consent.google.com/m",
-        "date": "20241001T233958"
+        "date": "20241003T223730"
+    },
+    {
+        "title": "FORD IMPORTANT DEADLINE: ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Ford Motor Company Investors to Secure Counsel Before Important October 7 Deadline in Securities Class Action - F - Ford Motor  ( NYSE:F ) ",
+        "summary": "Rosen Law Firm reminds purchasers of securities of Ford Motor Company F between April 27, 2022 and July 24, 2024, of the important October 7, 2024 lead plaintiff deadline. If you purchased Ford securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. A class action lawsuit has already been filed.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9748784899711609,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176639/ford-important-deadline-rosen-recognized-investor-counsel-encourages-ford-motor-company-investors-",
+        "date": "20241003T223500"
     },
     {
         "title": "Before you continue",
@@ -37,15 +197,39 @@
         "sentiment_label": "Bearish",
         "sentiment_score": -0.9946302175521851,
         "url": "https://consent.google.com/m",
-        "date": "20241001T233048"
+        "date": "20241003T223450"
     },
     {
-        "title": "China's surprise stock surge catches Wall Street flat-footed",
-        "summary": "China stocks will gain at least another 10 per cent in a tactical rally in the near term, Morgan Stanley said. UBS bumped its year-end target for the benchmark Hang Seng Index up by 7 per cent to 22,100.",
+        "title": "Teamsters Added 50,000 New Members In 3Y Cannabis Related - Cresco Labs  ( OTC:CRLBF ) , Ascend Wellness Holdings  ( OTC:AAWH ) ",
+        "summary": "The International Brotherhood of Teamsters has added 50,000 new members in just two and a half years. Part of this growth stems from the Teamsters' organizing efforts within the booming cannabis sector. Last year the union achieved a significant presence across the entire cannabis supply chain.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.998392641544342,
+        "url": "https://www.benzinga.com/markets/cannabis/24/10/41176622/teamsters-added-50-000-new-members-in-less-than-3-years-partly-due-to-cannabis-industry-growth",
+        "date": "20241003T223340"
+    },
+    {
+        "title": "FLUX POWER HOLDINGS, INC. ANNOUNCEMENT: If You Have Suffered Losses in Flux Power Holdings, Inc.  ( NASDAQ: FLUX ) , You Are Encouraged to Contact The Rosen Law Firm About Your Rights - Flux Power Holdings  ( NASDAQ:FLUX ) ",
+        "summary": "Flux Power Holdings, Inc. may have issued materially misleading business information to the investing public. If you purchased Flux Power securities you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. The Rosen Law Firm is preparing a class action seeking recovery of investor losses.",
         "sentiment_label": "Bearish",
-        "sentiment_score": -0.9953014850616455,
-        "url": "https://www.scmp.com/business/markets/article/3280606/chinas-surprise-stock-surge-catches-wall-street-flat-footed",
-        "date": "20241001T233008"
+        "sentiment_score": -0.997891366481781,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176601/flux-power-holdings-inc-announcement-if-you-have-suffered-losses-in-flux-power-holdings-inc-nasdaq",
+        "date": "20241003T223000"
+    },
+    {
+        "title": "ROSEN, A LEADING LAW FIRM, Encourages Terran Orbital Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action First Filed by the Firm - LLAP - Terran Orbital  ( NYSE:LLAP ) ",
+        "summary": "Rosen Law Firm has filed a class action lawsuit on behalf of purchasers of securities of Terran Orbital Corporation LLAP between August 15, 2023 and August 14, 2024. If you purchased Terran securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. To join the Terran class action, go to https://rosenlegal.com/submit-form/?case_id=29314.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9937785267829895,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176580/rosen-a-leading-law-firm-encourages-terran-orbital-corporation-investors-to-secure-counsel-before-",
+        "date": "20241003T222800"
+    },
+    {
+        "title": "Why Futu Holdings Stock Was on Fire This Week",
+        "summary": "The Chinese online brokerage's shares were up by a very impressive 43% week to date. JPMorgan Chase's Katherine Lei nearly doubled said Futu price target. The rally seemed to be fizzling on Thursday, no doubt because of profit-taking.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9867249727249146,
+        "url": "https://www.fool.com/investing/2024/10/03/why-futu-holdings-stock-was-on-fire-this-week/",
+        "date": "20241003T222710"
     },
     {
         "title": "Before you continue",
@@ -53,39 +237,23 @@
         "sentiment_label": "Bearish",
         "sentiment_score": -0.9946302175521851,
         "url": "https://consent.google.com/m",
-        "date": "20241001T232739"
+        "date": "20241003T222437"
     },
     {
-        "title": "Seacoast Banking Corporation of Florida to Announce Third Quarter Earnings Results October 24, 2024 - Seacoast Banking  ( NASDAQ:SBCF ) ",
-        "summary": "Seacoast Banking Corporation of Florida SBCF will release third quarter 2024 results on October 24th, after the market closes. Seacoast will host a conference call October 25th at 10:00 a.m. Eastern Time, to discuss theThird quarter 2024 earnings results and business trends.",
+        "title": "MedVirtual: Revolutionizing Medical Practice Growth with Virtual Assistants",
+        "summary": "MedVirtual is transforming how medical practices operate by offering customized virtual assistant (VA) services. The key to MedVirtual's success lies in its highly trained VAs, who are carefully monitored and evaluated to guarantee peak performance. MedVirtual offers secure, tailored virtual staffing solutions designed to improve operational efficiency and client satisfaction.",
         "sentiment_label": "Bullish",
-        "sentiment_score": 0.9662927985191345,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41132830/seacoast-banking-corporation-of-florida-to-announce-third-quarter-earnings-results-october-24-2024",
-        "date": "20241001T231923"
+        "sentiment_score": 0.9981284737586975,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176554/medvirtual-revolutionizing-medical-practice-growth-with-virtual-assistants",
+        "date": "20241003T222430"
     },
     {
-        "title": "MINILUXE ANNOUNCES ISSUANCE OF OPTIONS IN LIEU OF CASH EXTENDING ITS SHAREHOLDER ALIGNED INCENTIVE PROGRAM FOR LEADERSHIP COMPENSATION",
-        "summary": "MiniLuxe Holding Corp. granted 3,000,000 options at an exercise price of CDN $0.30 to certain leadership officers of the Company. In certain cases of senior leadership, equity-based options make up to 30 to 100 percent of an executive\u2019s base salary compensation. Options will be subject to a 1-year cliff vesting schedule.",
+        "title": "Vale Plans To Expand Copper Output, Invests $184M For Domestic Critical Minerals - Vale  ( NYSE:VALE ) ",
+        "summary": "Gustavo Pimenta, Vale's new CEO, spoke to the media for the first time in his new role. He acknowledged that Vale has \"fallen behind on copper \" compared to industry peers. The firm has been under pressure from the Brazilian government, which pleaded for increased domestic investments.",
         "sentiment_label": "Bearish",
-        "sentiment_score": -0.9931377172470093,
-        "url": "https://www.globenewswire.com/news-release/2024/10/01/2956651/0/en/MINILUXE-ANNOUNCES-ISSUANCE-OF-OPTIONS-IN-LIEU-OF-CASH-EXTENDING-ITS-SHAREHOLDER-ALIGNED-INCENTIVE-PROGRAM-FOR-LEADERSHIP-COMPENSATION.html",
-        "date": "20241001T231900"
-    },
-    {
-        "title": "Seacoast Banking Corporation of Florida to Announce Third Quarter Earnings Results October 24, 2024",
-        "summary": "Seacoast Banking Corporation of Florida (NASDAQ: SBCF) will release third quarter 2024 results on October 24th, after the market closes. Seacoast will host a conference call October 25th at 10:00 a.m. Eastern Time, to discuss theThird quarter 2024 earnings results and business trends.",
-        "sentiment_label": "Bullish",
-        "sentiment_score": 0.9100208878517151,
-        "url": "https://www.globenewswire.com/news-release/2024/10/01/2956652/0/en/Seacoast-Banking-Corporation-of-Florida-to-Announce-Third-Quarter-Earnings-Results-October-24-2024.html",
-        "date": "20241001T231900"
-    },
-    {
-        "title": "ROSEN, A LEADING LAW FIRM, Encourages PDD Holdings Inc. f/k/a Pinduoduo Inc. Investors to Secure Counsel Before Important October 15 Deadline in Securities Class Action First Filed by the Firm - PDD - PDD Holdings  ( NASDAQ:PDD ) ",
-        "summary": "Rosen Law Firm reminds purchasers of American Depositary Shares of PDD Holdings Inc. f/k/a Pinduoduo Inc. of the important October 15, 2024 lead plaintiff deadline in the securities class action first filed by the Firm. A class action lawsuit has already been filed. If you wish to serve as lead plaintiff, you must move the Court no later than October15, 2024.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9870275259017944,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41132727/rosen-a-leading-law-firm-encourages-pdd-holdings-inc-fka-pinduoduo-inc-investors-to-secure-counsel",
-        "date": "20241001T230700"
+        "sentiment_score": -0.6259488463401794,
+        "url": "https://www.benzinga.com/news/large-cap/24/10/41176539/vale-plans-to-expand-copper-output-invests-184m-for-domestic-critical-minerals",
+        "date": "20241003T222405"
     },
     {
         "title": "Before you continue",
@@ -93,23 +261,79 @@
         "sentiment_label": "Bearish",
         "sentiment_score": -0.9946302175521851,
         "url": "https://consent.google.com/m",
-        "date": "20241001T230447"
+        "date": "20241003T222113"
     },
     {
-        "title": "MEF Launches Southeast Asia Executive Council to Drive Network Transformation within the Region",
-        "summary": "MEF announced the formation of its Southeast Asia Executive Council. The council will provide insight and intelligence to MEF leadership to guide MEF strategy, investments, and priorities in Southeast Asia. Council members were selected based on their leadership in network transformation strategies.",
+        "title": "BIC Rolls Out Snoop Dogg And Martha Stewart-Inspired Limited-Edition Accessory, Here's Where To Find It",
+        "summary": "BIC is making headlines again with the launch of the limited-edition \u201cHold the Phone\u201d Case by BIC EZ Reach Lighters. The company announced its multi-year partners \u2013 Snoop Dogg and Martha Stewart \u2013 are an inspiration for the two phone cases.",
         "sentiment_label": "Bullish",
-        "sentiment_score": 0.998908281326294,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41132706/mef-launches-southeast-asia-executive-council-to-drive-network-transformation-within-the-region",
-        "date": "20241001T230300"
+        "sentiment_score": 0.8386052846908569,
+        "url": "https://www.benzinga.com/markets/cannabis/24/10/41176489/bic-rolls-out-snoop-dogg-and-martha-stewart-inspired-limited-edition-accessory-heres-where-to-fi",
+        "date": "20241003T221658"
     },
     {
-        "title": "Terran Orbital Corporation Investors: Please contact the Portnoy Law Firm to recover your losses. November 26, 2024 Deadline to file Lead Plaintiff Motion - Terran Orbital  ( NYSE:LLAP ) ",
-        "summary": "Investors can contact the law firm at no cost to learn more about recovering their losses. The Portnoy Law Firm represents investors in pursuing claims against caused by corporate wrongdoing. The Firm's founding partner has recovered over $5.5 billion for aggrieved investors.",
+        "title": "ROSEN, LEADING INVESTOR COUNSEL, Encourages Stellantis N.V. Investors to Secure Counsel Before Important October 15 Deadline in Securities Class Action - STLA - Stellantis  ( NYSE:STLA ) ",
+        "summary": "If you purchased Stellantis securities during the Class Period you may be entitled to compensation without payment of any out of pocket fees or costs through a contingency fee arrangement. If you wish to serve as lead plaintiff, you must move the Court no later than October 15, 2024. A lead plaintiff is a representative party acting on behalf of other class members in directing the litigation.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9948517680168152,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176487/rosen-leading-investor-counsel-encourages-stellantis-n-v-investors-to-secure-counsel-before-import",
+        "date": "20241003T221600"
+    },
+    {
+        "title": "Mark Zuckerberg's Facebook Paid $2B To Content Creators In The Past Year - And It Wants To Pay Out More - Meta Platforms  ( NASDAQ:META ) ",
+        "summary": "Social media company Meta Platforms Inc. META has paid out over $2 billion to content creators this year. Facebook began monetization efforts in 2017 because it wanted to compete with other social media platforms and video outlets such as YouTube.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9912123084068298,
+        "url": "https://www.benzinga.com/news/24/10/41176448/mark-zuckerbergs-facebook-paid-2b-to-content-creators-in-the-past-year-and-it-wants-to-pay-out-more",
+        "date": "20241003T221138"
+    },
+    {
+        "title": "Publicly Traded South African Mining Co. Invests In Fire-Resistant Hemp Buildings - New Industry Or PR Stunt? - Afrimat  ( OTC:AFTLF ) ",
+        "summary": "Afrimat AFTLF has made a move into the hemp industry by partnering with legacy brand Hemporium. They are using hemp-based materials to expand a building in Cape Town. This venture raises questions: is Afrimat betting on the future of South Africa\u2019s hemp industry, or is it a PR stunt?",
         "sentiment_label": "Bullish",
-        "sentiment_score": 0.9490336179733276,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41132644/terran-orbital-corporation-investors-please-contact-the-portnoy-law-firm-to-recover-your-losses-no",
-        "date": "20241001T225811"
+        "sentiment_score": 0.8738968968391418,
+        "url": "https://www.benzinga.com/general/biotech/24/10/41176420/publicly-traded-south-african-mining-co-invests-in-fire-resistant-hemp-buildings-new-industry-or-",
+        "date": "20241003T220826"
+    },
+    {
+        "title": "LGI Homes Reports September and Third Quarter 2024 Home Closings and Announces Date for Third Quarter Earnings Conference Call",
+        "summary": "LGI Homes, Inc. (NASDAQ: LGIH) announced it closed 579 homes in September 2024, a 7.2% year-over-year increase. The Company plans to release financial results for the third quarter ended September 30, 2024, before the market opens on Tuesday, November 5, 2024. A conference call will be held the same day to discuss the results.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.9852051138877869,
+        "url": "https://www.globenewswire.com/news-release/2024/10/03/2958070/28788/en/LGI-Homes-Reports-September-and-Third-Quarter-2024-Home-Closings-and-Announces-Date-for-Third-Quarter-Earnings-Conference-Call.html",
+        "date": "20241003T220100"
+    },
+    {
+        "title": "LGI Homes Reports September and Third Quarter 2024 Home Closings and Announces Date for Third Quarter Earnings Conference Call - LGI Homes  ( NASDAQ:LGIH ) ",
+        "summary": "The Company plans to release financial results for the third quarter ended September 30, 2024, before the market opens on Tuesday, November 5, 2024. The Company will hold a conference call at 12:30 p.m. Eastern Time the same day to discuss the results. The live audio webcast will be provided through the Investor Relations page of the Company's website.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.5761527419090271,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176305/lgi-homes-reports-september-and-third-quarter-2024-home-closings-and-announces-date-for-third-quar",
+        "date": "20241003T220100"
+    },
+    {
+        "title": "Editas Medicine Announces $50+ Million Monetization Financing with DRI Healthcare Trust - Editas Medicine  ( NASDAQ:EDIT ) ",
+        "summary": "Editas Medicine, Inc. announced the sale of certain future license fees and other payments owed to Editas Medicine under its Cas9 license agreement with Vertex Pharmaceuticals to a wholly-owned subsidiary of DRI Healthcare Trust. The upfront cash payment brings non-dilutive capital to Edit as Medicine to enable further pipeline development and related strategic priorities.",
+        "sentiment_label": "Bearish",
+        "sentiment_score": -0.5744708776473999,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176304/editas-medicine-announces-50-million-monetization-financing-with-dri-healthcare-trust",
+        "date": "20241003T220059"
+    },
+    {
+        "title": "Editas Medicine Announces $50+ Million Monetization Financing with DRI Healthcare Trust",
+        "summary": "Editas Medicine, Inc. (Nasdaq: EDIT) announced the sale of certain future license fees and other payments owed to Editas Medicine under its Cas9 license agreement with Vertex Pharmaceuticals to a wholly-owned subsidiary of DRI Healthcare Trust (DRI) for $57 million. The upfront cash payment brings non-dilutive capital to Edit as Medicine, helping enable further pipeline development and related strategic priorities.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.8958777785301208,
+        "url": "https://www.globenewswire.com/news-release/2024/10/03/2958069/0/en/Editas-Medicine-Announces-50-Million-Monetization-Financing-with-DRI-Healthcare-Trust.html",
+        "date": "20241003T220000"
+    },
+    {
+        "title": "Kirby McInerney LLP Reminds Bumble Inc.  ( BMBL )  Investors of Class Action Filing and Encourages Investors to Contact the Firm - Bumble  ( NASDAQ:BMBL ) ",
+        "summary": "Kirby McInerney LLP reminds investors that a class action lawsuit has been filed in the U.S. District Court for the Western District of Texas. Investors have until November 25, 2024, to apply to the Court to be appointed as lead plaintiff in the lawsuit.",
+        "sentiment_label": "Bullish",
+        "sentiment_score": 0.8492563962936401,
+        "url": "https://www.benzinga.com/pressreleases/24/10/g41176285/kirby-mcinerney-llp-reminds-bumble-inc-bmbl-investors-of-class-action-filing-and-encourages-invest",
+        "date": "20241003T220000"
     },
     {
         "title": "Before you continue",
@@ -117,23 +341,7 @@
         "sentiment_label": "Bearish",
         "sentiment_score": -0.9946302175521851,
         "url": "https://consent.google.com/m",
-        "date": "20241001T225733"
-    },
-    {
-        "title": "Acadia Healthcare Company, Inc. Investors: Company Investigated by the Portnoy Law Firm - Acadia Healthcare Co  ( NASDAQ:ACHC ) ",
-        "summary": "Investors can contact the law firm at no cost to learn more about recovering their losses. The Portnoy Law Firm represents investors in pursuing claims against caused by corporate wrongdoing. The Firm's founding partner has recovered over $5.5 billion for aggrieved investors.",
-        "sentiment_label": "Bullish",
-        "sentiment_score": 0.9490336179733276,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41132635/acadia-healthcare-company-inc-investors-company-investigated-by-the-portnoy-law-firm",
-        "date": "20241001T225552"
-    },
-    {
-        "title": "Bird Construction Inc. Announces Release Date and Conference Call for 2024 Third Quarter Financial Results",
-        "summary": "Bird Construction Inc. (TSX: BDT) announced today that it will release its 2024 third quarter financial results after market close on Tuesday, November 5, 2024. A conference call and live webcast to discuss the results will be held on Wednesday, November 6, 2024 at 10:00 a.m. (ET)",
-        "sentiment_label": "Bullish",
-        "sentiment_score": 0.9604713320732117,
-        "url": "https://www.globenewswire.com/news-release/2024/10/01/2956646/0/en/Bird-Construction-Inc-Announces-Release-Date-and-Conference-Call-for-2024-Third-Quarter-Financial-Results.html",
-        "date": "20241001T225500"
+        "date": "20241003T215646"
     },
     {
         "title": "Before you continue",
@@ -141,86 +349,14 @@
         "sentiment_label": "Bearish",
         "sentiment_score": -0.9946302175521851,
         "url": "https://consent.google.com/m",
-        "date": "20241001T225235"
+        "date": "20241003T215425"
     },
     {
-        "title": "Paragon 28, Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. November 29, 2024 Deadline to file Lead Plaintiff Motion - Paragon 28  ( NYSE:FNA ) ",
-        "summary": "Investors can contact the law firm at no cost to learn more about recovering their losses. The Portnoy Law Firm represents investors in pursuing claims against caused by corporate wrongdoing. The Firm's founding partner has recovered over $5.5 billion for aggrieved investors.",
-        "sentiment_label": "Bullish",
-        "sentiment_score": 0.9490336179733276,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41132588/paragon-28-inc-investors-please-contact-the-portnoy-law-firm-to-recover-your-losses-november-29-20",
-        "date": "20241001T224759"
-    },
-    {
-        "title": "Laser Photonics Corp. Investors: Company Investigated by the Portnoy Law Firm - Laser Photonics  ( NASDAQ:LASE ) ",
-        "summary": "Investors can contact the law firm at no cost to learn more about recovering their losses. The Portnoy Law Firm represents investors in pursuing claims against caused by corporate wrongdoing. The Firm's founding partner has recovered over $5.5 billion for aggrieved investors.",
-        "sentiment_label": "Bullish",
-        "sentiment_score": 0.9490336179733276,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41132500/laser-photonics-corp-investors-company-investigated-by-the-portnoy-law-firm",
-        "date": "20241001T224002"
-    },
-    {
-        "title": "AMMO, Inc. Investors: Please contact the Portnoy Law Firm to recover your losses. November 29, 2024 Deadline to file Lead Plaintiff Motion - AMMO  ( NASDAQ:POWW ) ",
-        "summary": "Investors can contact the law firm at no cost to learn more about recovering their losses. The Portnoy Law Firm represents investors in pursuing claims against caused by corporate wrongdoing. The Firm's founding partner has recovered over $5.5 billion for aggrieved investors.",
-        "sentiment_label": "Bullish",
-        "sentiment_score": 0.9490336179733276,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41132464/ammo-inc-investors-please-contact-the-portnoy-law-firm-to-recover-your-losses-november-29-2024-dea",
-        "date": "20241001T223513"
-    },
-    {
-        "title": "Billionaire Investor Who Predicted 2000, 2008 Crashes Says Market Euphoria Will Top Soon, Warns Of 'Black Swan Event' - SPDR S&P 500  ( ARCA:SPY ) ",
-        "summary": "Mark Spitznagel, co-founder of Universa Investments, believes the stock market is in a \"Goldilocks phase\" He predicts a looming recession and believes the current rally is only temporary. He also criticized traditional investment strategies like diversification, calling them a \"big lie\"",
+        "title": "IMF Urges El Salvador to Narrow Bitcoin Experiment",
+        "summary": "IMF Urges El Salvador to Narrow Bitcoin Experiment. $62,056.00 is the average cost of a single Bitcoin transaction in El Salvador. $61,913.00 includes the cost of the average Bitcoin transaction over the course of a year.",
         "sentiment_label": "Bearish",
-        "sentiment_score": -0.9977996945381165,
-        "url": "https://www.benzinga.com/news/24/10/41132441/billionaire-investor-who-predicted-2000-2008-crashes-says-market-euphoria-will-top-soon-warns-of-bla",
-        "date": "20241001T223412"
-    },
-    {
-        "title": "Before you continue",
-        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9946302175521851,
-        "url": "https://consent.google.com/m",
-        "date": "20241001T223126"
-    },
-    {
-        "title": "Highland Global Allocation Fund Declares Monthly Distributions of $0.081 Per Share - Highland Glb Allocation  ( NYSE:HGLB ) ",
-        "summary": "The Fund is declaring distributions of $0.081 per month for October through December 2024. The annual distribution rate has been reset to an amount equal to 8.5% of the average of the Fund's net asset value (\"NAV\") per share.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9972884654998779,
-        "url": "https://www.benzinga.com/pressreleases/24/10/n41132414/highland-global-allocation-fund-declares-monthly-distributions-of-0-081-per-share",
-        "date": "20241001T223000"
-    },
-    {
-        "title": "Polyester Staple Fiber Market Size to Grow to USD 52.4 Billion by 2034, Growing at 4.7% CAGR as Manufacturers Invest in Customized Solutions for Niche Industries: Transparency Market Research",
-        "summary": "The global polyester staple fiber market is estimated to surge at a CAGR of 4.7% from 2024 to 2034. The overall sales revenue for the market is expected to reach US$ 52.4 billion by the end of 2034, says Transparency Market Research.",
-        "sentiment_label": "Bullish",
-        "sentiment_score": 0.5178437232971191,
-        "url": "https://www.benzinga.com/pressreleases/24/10/g41132412/polyester-staple-fiber-market-size-to-grow-to-usd-52-4-billion-by-2034-growing-at-4-7-cagr-as-manu",
-        "date": "20241001T223000"
-    },
-    {
-        "title": "LENSAR Reports Inducement Grants Under Nasdaq Listing Rule 5635 ( c )  ( 4 ) ",
-        "summary": "LENSAR, Inc. granted two newly-hired non-executive employees stock options to purchase an aggregate of 875 shares of the Company\u2019s common stock. The options were granted as of October 1, 2024, as inducements material to each employee entering into employment with the Company.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9178076982498169,
-        "url": "https://www.globenewswire.com/news-release/2024/10/01/2956640/0/en/LENSAR-Reports-Inducement-Grants-Under-Nasdaq-Listing-Rule-5635-c-4.html",
-        "date": "20241001T222500"
-    },
-    {
-        "title": "Before you continue",
-        "summary": "The server cannot process the request because it is malformed. That\u2019s an error. It should not be retried. That's all we know. 400.400.400 is the current version of this article.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9946302175521851,
-        "url": "https://consent.google.com/m",
-        "date": "20241001T222437"
-    },
-    {
-        "title": "Crypto Laws Are Coming No Matter Who Wins Election: Rep. Tom Emmer",
-        "summary": "Crypto Laws Are Coming No Matter Who Wins Election: Rep. Tom Emmer. Rep. Emmer says he will introduce a bill that would make it illegal to use the internet without a password.",
-        "sentiment_label": "Bearish",
-        "sentiment_score": -0.9931303858757019,
-        "url": "https://decrypt.co/284228/crypto-laws-coming-tom-emmer-interview",
-        "date": "20241001T221930"
+        "sentiment_score": -0.9957450032234192,
+        "url": "https://decrypt.co/284603/imf-el-salvador-narrow-bitcoin-law",
+        "date": "20241003T215107"
     }
 ]

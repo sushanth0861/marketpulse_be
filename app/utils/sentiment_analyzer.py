@@ -1,6 +1,7 @@
 # utils/sentiment_analyzer.py
 from transformers import pipeline
 import re
+import torch
 
 def get_sentiment_label_by_score(sentiment_score):
     """
@@ -43,12 +44,16 @@ def aggregate_sentiments(sentiments):
 
     return overall_score, final_mood, mood_count
 
-def analyze_sentiment(summary_text, sentiment_pipeline = pipeline("sentiment-analysis")):
+def analyze_sentiment(summary_text):
     """
     Use a sentiment analysis pipeline to analyze the sentiment of the summary text.
     Adjust sentiment score for negative sentiment.
     """
-    sentiment_result = sentiment_pipeline(summary_text)
+    device = 0 if torch.cuda.is_available() else -1
+
+    # Define the pipeline with the specific model and ensure it runs on GPU if available
+    classifier = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english", device=device)
+    sentiment_result = classifier(summary_text)
     
     # Extract sentiment score and label (POSITIVE/NEGATIVE/NEUTRAL)
     sentiment_score = sentiment_result[0]["score"]
