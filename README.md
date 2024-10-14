@@ -3,9 +3,12 @@
 MarketPulse is a backend service built with FastAPI to provide market sentiment analysis and financial data for various sectors, leveraging MongoDB for data storage and Alpha Vantage for financial insights.
 
 ## Features
-- Fetches and processes live market sentiment and sector data.
-- RESTful API endpoints for retrieving market and sentiment data.
-- Integration with Alpha Vantage for real-time financial data.
+- Fetches and processes live market news and provides a sentiment (range from Bearish to Bullish).
+- RESTful API endpoints for retrieving market sentiment data.
+- Integration with Alpha Vantage for real-time financial news data.
+- Utilizes a BART-based language model for generating summaries of financial news articles.
+- Leverages large language models (LLMs) from Hugging Face’s Transformers library to perform AI-driven sentiment analysis.
+- By utilizing these advanced models, MarketPulse effectively processes financial news, extracting insights and generating sentiment scores to gauge market mood dynamically.
 
 ## Live Deployment
 - Access the live frontend application at: [marketpulse-fe.vercel.app](https://marketpulse-fe.vercel.app)
