@@ -8,8 +8,8 @@ MarketPulse is a backend service built with FastAPI to provide market sentiment 
 - Integration with Alpha Vantage for real-time financial data.
 
 ## Live Deployment
-Access the live frontend application at: [marketpulse-fe.vercel.app](https://marketpulse-fe.vercel.app)
-Access the frontend repo at: [github.com/sushanth0861/marketpulse_fe](https://github.com/sushanth0861/marketpulse_fe)
+- Access the live frontend application at: [marketpulse-fe.vercel.app](https://marketpulse-fe.vercel.app)
+- Access the frontend repo at: [github.com/sushanth0861/marketpulse_fe](https://github.com/sushanth0861/marketpulse_fe)
 
 ## Prerequisites
 - Python 3.8+
